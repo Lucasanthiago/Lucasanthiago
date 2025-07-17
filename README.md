@@ -1,7 +1,10 @@
-<h1 align="left">Olá, eu sou o Lucas!</h1>
+<h1 align="left">Hi, I'm Lucas!</h1>
 
 ###
 
-<h4 align="left">Sou estudante de Ciência da Computação na UFF, desenvolvedor iOS na Apple Developer Academy, e apaixonado por tecnologia, inovação e educação.<br>Tenho experiência com Swift, Python, React, bancos de dados, AI e projetos que buscam impacto real na vida das pessoas.</h4>
+<h4 align="left">I'm a Computer Science student at UFF (Universidade Federal Fluminense), iOS Developer at Apple Developer Academy, and passionate about technology, innovation, and education.
+I have experience with Swift, Python, React, databases, and AI — always looking to create solutions with real impact.</h4>
 
 ###
+
+
